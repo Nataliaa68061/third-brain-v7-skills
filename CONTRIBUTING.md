@@ -12,3 +12,4 @@ Notes and usage details for third-brain-v7-skills.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- add a note about the defaults
